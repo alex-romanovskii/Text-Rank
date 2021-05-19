@@ -21,6 +21,6 @@ As output, each text corresponds to a csv file. In which each sentence of the te
 - run **main.py**. You can find csv file for each source text in folder **texts/Summarize**
 
 ### Reference
-[1] - Mihalcea, R. and Tarau, P., 2004, TextRank: Bringing Order into Texts, Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing, Barcelona.
-[2] - https://en.wikipedia.org/wiki/Jaccard_index
+[1] - Mihalcea, R. and Tarau, P., 2004, TextRank: Bringing Order into Texts, Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing, Barcelona.  
+[2] - https://en.wikipedia.org/wiki/Jaccard_index  
 [3] - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
